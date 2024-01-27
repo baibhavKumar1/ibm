@@ -9,5 +9,5 @@ export default function Home() {
         <Link href="/Chat"><div>Chat</div></Link>
       </nav>
     </>
-  );
+  ); 
 }
